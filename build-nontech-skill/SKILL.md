@@ -1,7 +1,7 @@
 ---
 name: skill-architect
 description: |
-  Designs, reviews, and optimizes Claude Skills with strong YAML triggers, concise SKILL.md files, and stable output formats.
+  Designs, reviews, and optimizes Claude Skills to improve trigger accuracy, SKILL.md quality, and output stability.
   Use when the user asks to build, create, design, draft, write, review, audit, improve, refactor, optimize, or troubleshoot a skill, SKILL.md, skill description, blueprint, trigger, or folder structure.
   Trigger for requests mentioning SKILL.md, skill description, skill trigger, skill folder, skill blueprint, skill review, skill audit, Progressive Disclosure, frontmatter, or YAML description.
   Do not use for general prompt engineering, agent workflow design, MCP server creation, eval harness building, or non-skill system prompts.

@@ -1,8 +1,8 @@
 ---
 name: engineering-skill-architect
 description: |
-  Designs Claude Skills for engineering domains: data transformation, SQL, ETL, API integration, infrastructure, code generation, code review, test generation, and config optimization.
-  Use when the user asks to build, design, architect, or review a skill for a technical task.
+  Designs Claude Skills for engineering and technical domains to produce accurate, runnable, testable output with minimal hallucination risk.
+  Use when the user asks to build, design, architect, or review a skill involving code, data, infrastructure, or other technical output.
   Trigger for skill-creation intent combined with engineering context: "build skill for ClickHouse", "skill that reviews FastAPI endpoints", "skill for Terraform review", "skill for Python unit tests", "skill for Dockerfile optimization", or similar.
   Do not use for direct technical tasks: writing SQL, debugging code, making API calls, setting up infrastructure, or doing engineering work directly rather than designing a skill.
   Do not use for content, writing, marketing, or non-technical skill design — use skill-architect.
