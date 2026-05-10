@@ -1,11 +1,12 @@
 ---
 name: skill-architect
 description: |
-  Designs, creates, drafts, reviews, and optimizes skills with strong YAML triggers, concise SKILL.md files, stable output formats, and anti-hallucination rules.
-  Use when the user asks to build, create, design, draft, write, review, audit, improve, refactor, optimize, or troubleshoot a skill, skill description, SKILL.md file, skill blueprint, skill trigger, or skill folder structure.
+  Designs, reviews, and optimizes Claude Skills with strong YAML triggers, concise SKILL.md files, and stable output formats.
+  Use when the user asks to build, create, design, draft, write, review, audit, improve, refactor, optimize, or troubleshoot a skill, SKILL.md, skill description, blueprint, trigger, or folder structure.
   Trigger for requests mentioning SKILL.md, skill description, skill trigger, skill folder, skill blueprint, skill review, skill audit, Progressive Disclosure, frontmatter, or YAML description.
-  Do not use for general prompt engineering unrelated to skills, agent workflow design, MCP server creation, evaluation harness building, or non-skill system prompts.
-  Focuses on skill structure, trigger optimization, SKILL.md quality, and skill maintainability.
+  Do not use for general prompt engineering, agent workflow design, MCP server creation, eval harness building, or non-skill system prompts.
+  Do not use for engineering skills involving code, SQL, data transformation, API integration, or infrastructure — use engineering-skill-architect.
+  Focuses on skill structure, trigger optimization, SKILL.md quality, and maintainability.
 ---
 
 # Skill Architect
